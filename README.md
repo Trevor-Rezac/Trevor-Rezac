@@ -15,7 +15,7 @@ I am a Full-Stack Software Developer with a penchant for writing clean code and 
 
 <br>
 
-- 📫 How to reach me:<br>
+📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/trevor-rezac-a14840124/) <br>
 [Email](mailto:trev.rezac@gmail.com)
   
