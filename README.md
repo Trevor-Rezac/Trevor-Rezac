@@ -15,9 +15,8 @@ I am a Full-Stack Software Developer with a penchant for writing clean code and 
 <br>
 
 🌱 I’m currently reading ...
-  - I'll Be Gone In The Dark by Michelle McNamara
+  - Endurance by Alfred Lansing
   - Grokking Algorithms by Aditya Bhargava
-  - Other Minds by Peter Godfrey-Smith
 
 <br>
 
